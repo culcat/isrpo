@@ -32,3 +32,5 @@ function findOdd(A) {
   
 //   console.log(findOdd([1,1,2])); //5
 //   console.log(findOdd([1,1,1,1,1,1,10,1,1,1,1])); //10
+
+console.log("hello")
